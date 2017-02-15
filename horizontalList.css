@@ -1,0 +1,161 @@
+body {
+	margin:0;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+.searchButtonOne {
+	width: 14px;
+	height: 14px;
+	margin-right: 0.5em;
+	padding-top: 0.2em;
+}
+
+.searchButtonTwo{
+	float: left;
+	width: 14px;
+	height: 14px;
+	padding-top: 0.2em;
+}
+
+
+.sign {
+	float: right;
+}
+
+.searchBar {
+	float: right;
+	border: solid grey;
+}
+
+.user {
+	height: 21px;
+}
+
+.signIn {
+	float: right;
+}
+
+.signUp {
+	float: right;
+	clear: left;
+}
+
+.search {
+	border: 0 transparent;
+	margin-left: 2em;
+	width: 5em;
+}
+
+.search:focus {
+	outline: none;
+}
+
+.search:hover {
+	margin-left:0;
+	width: 7em;
+}
+
+.heading {
+	text-transform: uppercase;
+	text-align: center;
+	margin:0;
+	padding-top: 0.6rem;
+	font-size: 45px;
+}
+.animalList {
+	background-color: grey;
+	text-align: center;
+}
+
+.animalNames {
+	color: white;
+	list-style-type: none;
+	display: inline-block;
+	margin:0 0.8rem;
+}
+
+.animalLinks {
+	text-decoration: none;
+	color: white;
+	font-family:;
+	font-size: 20px;
+	margin-right: 4px;
+}
+
+.animalLinks:hover {
+	font-weight: 900;
+	font-family: "times new roman";
+}
+
+.nav {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.pigArticle{
+	width: 25%;
+}
+.waOne {
+	float: right;
+	width: 20%;
+	border: solid grey;
+	height: 718px;
+
+}
+
+.two{
+	border: solid grey;
+	margin-top: 7em;
+}
+
+.catHeading{
+	text-align: center;
+}
+.waTwo {
+	float: right;
+	width: 60%;
+	border: solid grey;
+}
+
+.pigPic {
+	float: left;
+}
+
+.pigPicTwo {
+	float: right;
+	margin-top: -40px;
+}
+
+.waThree {
+	float: right;
+	width: 20%;
+	border: solid grey;
+	height: 718px;
+}
+
+.pigHeading {
+	text-align: center;
+}
+
+.relatedInfoList {
+	list-style-type: none;
+}
+
+.relatedSubInfo{
+	display: inline;
+	float: right;
+}
+
+.relatedInfoLink{
+	display: none;
+}
+ 
+.relatedInfoEm {
+	display: block;
+}
+
+
+
