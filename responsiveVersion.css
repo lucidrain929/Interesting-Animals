@@ -1,0 +1,21 @@
+body, *, *:before, *:after {
+    box-sizing: border-box;
+}
+.portfolio{
+	position: relative;
+	text-align: center;
+}
+.portfolio:before{
+	content: " ";
+	display: block;
+	height: 30px;
+	background: url(image/greyLines.jpeg);
+}
+
+.title-wrapper{
+	position:absolute;
+	margin-top:-50px;
+	background-color: white;
+	display: inline;
+}
+
